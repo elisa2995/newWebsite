@@ -21,7 +21,7 @@ role: Security Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Application Security Operation Center @ Amadeus 
+  - name: Application Security Operation Center - Amadeus 
     url: https://amadeus.com
 
 # Short bio (displayed in user profile at end of posts)
@@ -118,12 +118,11 @@ social:
 highlight_name: true
 ---
 
-I am a Security Researcher in the Application Security Operation Center at Amadeus since September 2023. My domains of interest and expertise are Network and Application Security. 
+I am a Security Researcher in the Application Security Operation Center at Amadeus. My domains of interest and expertise are Network and Application Security. 
 
-Prior to this, I was a Ph.D. researcher in Network and Application Security enrolled at the Sorbonne Université. I worked on my research project at EURECOM (France) and Amadeus, under the supervision of Prof. Marc Dacier (KAUST) and Dr. Olivier Thonnard (Amadeus).  I officially defended my Ph.D. thesis, whose title is "Detecting and Mitigating the New Generation of Scraping Bots", in November 2023.
+Prior to this, I was a Ph.D. researcher in Digital Security enrolled at the Sorbonne Université. I worked on my research project at EURECOM (France) and Amadeus, under the supervision of Prof. Marc Dacier (KAUST) and Dr. Olivier Thonnard (Amadeus).  I officially defended my Ph.D. thesis, whose title is "Detecting and Mitigating the New Generation of Scraping Bots", in November 2023.
 
 My current research interests center around the analysis and detection of bots and Residential IP proxies (RESIPs).
-Lately, malicious actors exploit RESIPs to access a vast network of residential IP addresses that can be used as exit points for requests. This helps them bypass usual anti-bot detection techniques.
 After an in-depth study of the ecosystem of RESIP, we are focusing on detecting and geolocation when malicious actors take advantage of these services thanks to IP address analysis and network measurements.
 
 I am always more than happy to discuss our work, if you have any feedback please do not hesitate to contact me at elisa.chiapponi@amadeus.com :)
