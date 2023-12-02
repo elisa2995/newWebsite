@@ -130,7 +130,7 @@ After an in-depth study of the ecosystem of RESIP and the detection of their req
 
 I am always more than happy to discuss our work, if you have any feedback please do not hesitate to contact me at elisa.chiapponi@amadeus.com :)
 
-When I am not actively working on my research projects, I am passionate about cooking, volunteering ([Global Shapers Nice](https://www.globalshapers.org/hubs/nice-hub/), [Helping Hands](https://www.helpinghands-sophia.org/)), hiking, indoor and outdoor climbing.
+Outside of work, I am passionate about cooking, volunteering ([Global Shapers Nice](https://www.globalshapers.org/hubs/nice-hub/), [Helping Hands](https://www.helpinghands-sophia.org/)), hiking, indoor and outdoor climbing.
 I also love traveling, listening to true-crime podcasts and dancing [Balfolk](https://www.instagram.com/folkazur/).
 
 {style="text-align: justify;"}
