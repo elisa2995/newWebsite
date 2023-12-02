@@ -73,6 +73,12 @@ sections:
           location: Saudi Arabia
           date_start: '2023-03-02'
           date_end: '2023-04-30'
+        - title: Visiting Ph.D. Researcher
+          company: KAUST
+          company_url: 'https://www.kaust.edu.sa/'          
+          location: Saudi Arabia
+          date_start: '2023-03-02'
+          date_end: '2023-04-30'
         - title: Application SOC Intern
           company: Amadeus
           company_url: 'https://amadeus.com/'
