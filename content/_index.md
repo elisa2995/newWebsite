@@ -237,11 +237,6 @@ sections:
       text: ''
       # Contact (add or remove contact options as necessary)
       email: elisa.chiapponi@amadeus.com
-      
-      
-        
-      # Automatically link email and phone or display as text?
-      autolink: true
 
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
