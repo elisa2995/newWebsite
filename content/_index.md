@@ -81,13 +81,6 @@ sections:
           location: Saudi Arabia
           date_start: '2023-04-30'
           date_end: '2023-03-01'
-          description: ''
-        - title: Application SOC Intern
-          company: Amadeus
-          company_url: 'https://amadeus.com/'          
-          location: France
-          date_start: '2019-07-01'
-          date_end: '2020-01-31'
           description: ''        
     design:
       columns: '2'
