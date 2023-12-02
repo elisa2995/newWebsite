@@ -147,6 +147,7 @@ sections:
       Supervision - Past students:
     
       * [Mathieu Champion](https://cemse.kaust.edu.sa/rc3/people/person/mathieu-champion) [MSc student, KAUST, with prof. Marc Dacier]
+      
       Supervision - Current students:
       * [Salman G. Shaikh](https://cemse.kaust.edu.sa/rc3/people/person/salman-g-shaikh) [MSc/Ph.D. student, KAUST, with prof. Marc Dacier]
       * Baijun Feng [MSc student, KAUST, with prof. Marc Dacier]'
