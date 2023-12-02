@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -84,9 +85,10 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
+    id: grants
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Grant and Awards'
+      title: 'Grants and Awards'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -108,6 +110,7 @@ sections:
     design:
       columns: '2'
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       text: |-
@@ -128,6 +131,13 @@ sections:
       filters:
         folders:
           - event
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
+    id: service
+    content:
+      title: Service and Supervision
     design:
       columns: '2'
       view: compact
