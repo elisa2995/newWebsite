@@ -10,7 +10,7 @@ main:
   - name: Experience
     url: '#experience'
     weight: 20
-  - name: Grants and Awards
+  - name: Awards
     url: '#grants'
     weight: 30
   - name: Publications
@@ -19,7 +19,7 @@ main:
   - name: Talks
     url: '#talks'
     weight: 50
-  - name: Service and Supervision
+  - name: Service
     url: '#service'
     weight: 60
   - name: Contact
