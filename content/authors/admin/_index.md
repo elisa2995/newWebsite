@@ -21,7 +21,7 @@ role: Security Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Application Security Operation Center @ Amadeus 
+  - name: Application Security Operation Center - Amadeus 
     url: https://amadeus.com
 
 # Short bio (displayed in user profile at end of posts)
