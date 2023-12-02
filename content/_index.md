@@ -237,10 +237,6 @@ sections:
       text: ''
       # Contact (add or remove contact options as necessary)
       email: elisa.chiapponi@amadeus.com
-
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
