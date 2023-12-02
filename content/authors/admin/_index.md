@@ -21,18 +21,18 @@ role: Security Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Amadeus 
+  - name: Application Security Operation Center @ Amadeus 
     url: https://amadeus.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: Security Researcher in the Global Security Operations (GSO) at Amadeus
+bio: Security Researcher in the Application Security Operation Center at Amadeus
 
 # Interests to show in About widget
 interests:
   - Application Security
   - Network Measurements
   - Bot Detection and Mitigation
-  - Residential IP Proxies
+  - Residential IP Proxies Detection
 
 # Education to show in About widget
 education:
@@ -95,9 +95,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+#  - icon: envelope
+#    icon_pack: fas
+#    link: '/#contact'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.fr/citations?user=JcE2__YAAAAJ&hl=en
@@ -110,7 +110,7 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  #- icon: cv
+  #  - icon: cv
   #  icon_pack: ai
   #  link: uploads/resume.pdf
 
@@ -118,5 +118,11 @@ social:
 highlight_name: true
 ---
 
-Elisa Chiapponi is a Security Researcher in the Application Security Operation Center (SOC) at Amadeus IT Group (Nice, France) since September 2023. Her domains of interest and expertise are Network and Application Security. Prior to this, she was a Ph.D. researcher in Network and Application Security enrolled at the Sorbonne Université (Paris, France). She worked on her research project at EURECOM (Biot, France) and Amadeus IT Group, under the supervision of Prof. Marc Dacier (KAUST) and Dr. Olivier Thonnard (Amadeus IT Group).  Elisa will officially defend her Ph.D. thesis, whose title is "Detecting and mitigating the new generation of scraping bots", in November 2023.
+I am a Security Researcher in the Application Security Operation Center at Amadeus (France) since September 2023. My domains of interest and expertise are Network and Application Security. Prior to this, I was a Ph.D. researcher in Network and Application Security enrolled at the Sorbonne Université (Paris, France). I worked on my research project at EURECOM (France) and Amadeus, under the supervision of Prof. Marc Dacier (KAUST, Saudi Arabia) and Dr. Olivier Thonnard (Amadeus).  I will officially defended my Ph.D. thesis, whose title is "Detecting and Mitigating the New Generation of Scraping Bots", in November 2023.
+
+My current research interests center around the analysis and detection of bots and Residential IP proxies (RESIPs).
+Lately, malicious actors exploit RESIPs to access a vast network of residential IP addresses that can be used as exit points for requests. This helps them bypass usual anti-bot detection techniques.
+After an in-depth study of the ecosystem of RESIP, we are focusing on detecting and geolocation when malicious actors take advantage of these services thanks to IP address analysis and network measurements.
+
+I am always more than happy to discuss our works, if you have any feedback please do not hesitate to ping me at elisa.chiapponi@amadeus.com :)
 {style="text-align: justify;"}
