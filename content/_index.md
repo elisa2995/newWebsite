@@ -138,8 +138,7 @@ sections:
     id: service
     content:
       title: Service and Supervision
-      text:
-      PC Member IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) - Doctoral Forum [[2023](https://dsn2023.dei.uc.pt/committee_doctoral_forum-PC.html)]
+      text: PC Member IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) - Doctoral Forum [[2023](https://dsn2023.dei.uc.pt/committee_doctoral_forum-PC.html)]\\
       Journal Reviewer for the [Springer International Journal of Information Security](https://www.springer.com/journal/10207)
     design:
       columns: '2'
