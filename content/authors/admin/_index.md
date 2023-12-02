@@ -121,12 +121,16 @@ social:
 highlight_name: true
 ---
 
-I am a Security Researcher in the Application Security Operation Center at Amadeus. My domains of interest and expertise are Network and Application Security. 
+I am a Security Researcher in the Application Security Operation Center at [Amadeus](https://amadeus.com/en). My domains of interest and expertise are Network and Application Security. 
 
-Prior to this position, I was a Ph.D. researcher in Digital Security enrolled at the Sorbonne Université. I worked on my research project at EURECOM (France) and Amadeus, under the supervision of Prof. [Marc Dacier](https://cemse.kaust.edu.sa/people/person/marc-dacier) ([KAUST](https://www.kaust.edu.sa/en/)) and Dr. Olivier Thonnard (Amadeus).  I officially defended my Ph.D. thesis, whose title is "Detecting and Mitigating the New Generation of Scraping Bots", in November 2023.
+Prior to this position, I was a Ph.D. researcher in Digital Security enrolled at the [Sorbonne Université](https://www.sorbonne-universite.fr/). I worked on my research project in the Digital Security Department of [EURECOM](https://www.eurecom.fr/) and Amadeus, under the supervision of Prof. [Marc Dacier](https://cemse.kaust.edu.sa/people/person/marc-dacier) ([KAUST](https://www.kaust.edu.sa/en/)) and Dr. [Olivier Thonnard](https://scholar.google.fr/citations?user=PGRHX2wAAAAJ&hl=fr) (Amadeus).  I officially defended my Ph.D. thesis, whose title is "Detecting and Mitigating the New Generation of Scraping Bots", in November 2023.
 
 My current research interests center around the analysis and detection of bots and Residential IP proxies (RESIPs).
 After an in-depth study of the ecosystem of RESIP and the detection of their requests, we are focusing on the geolocation of the malicious actors that take advantage of these services thanks to IP address analysis and network measurements.
 
 I am always more than happy to discuss our work, if you have any feedback please do not hesitate to contact me at elisa.chiapponi@amadeus.com :)
+
+When I am not actively working on my research projects, I am passionate about cooking, volunteering ([Global Shapers Nice](https://www.globalshapers.org/hubs/nice-hub/), [Helping Hands](https://www.helpinghands-sophia.org/)), hiking, indoor and outdoor climbing.
+I also love traveling, listening to true-crime podcasts and dancing [Balfolk](https://www.instagram.com/folkazur/).
+
 {style="text-align: justify;"}
