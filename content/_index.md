@@ -229,13 +229,13 @@ sections:
 #      title: Popular Topics
 #    design:
 #      columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
+# - block: contact
+#    id: contact
+ #   content:
+ #     title: Contact
+  #    subtitle:
       # Contact (add or remove contact options as necessary)
-      email: elisa.chiapponi@amadeus.com
+   #   email: elisa.chiapponi@amadeus.com
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       #address:
@@ -276,6 +276,6 @@ sections:
       #  netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
-    design:
-      columns: '2'
+    #design:
+     # columns: '2'
 ---
