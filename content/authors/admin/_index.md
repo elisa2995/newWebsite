@@ -49,7 +49,7 @@ education:
     - course: BSc in Bioengineering
       institution: Universitá degli studi di Pavia
       year: 2017
-        - course: Erasmus Semester
+    - course: Erasmus Semester
       institution: Universidad Carlos III de Madrid
       year: 2016
 
