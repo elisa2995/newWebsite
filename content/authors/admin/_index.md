@@ -46,6 +46,9 @@ education:
     - course: MSc in Computer Engineering, Software Engineering Track
       institution: Politecnico di Torino
       year: 2020
+    - course: Erasmus Semester
+      institution: Universidad Carlos III de Madrid
+      year: 2016
     - course: BSc in Bioengineering
       institution: Universitá degli studi di Pavia
       year: 2017
