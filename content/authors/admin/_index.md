@@ -31,7 +31,8 @@ bio: Security Researcher in the Global Security Operations (GSO) at Amadeus
 interests:
   - Application Security
   - Network Measurements
-  - Bot Detection
+  - Bot Detection and Mitigation
+  - Residential IP Proxies
 
 # Education to show in About widget
 education:
@@ -87,7 +88,7 @@ education:
 #        description: ''
 #        percent: 80
 #        icon: camera-retro
-        icon_pack: fas
+#      icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
