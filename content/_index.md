@@ -61,27 +61,18 @@ sections:
           location: France
           date_start: '2023-09-04'
           date_end: ''
-         # description: |2-
-         #     Responsibilities include:
-
-         #     * Analysing
-         #     * Modelling
-         #     * Deploying
         - title: Ph.D. Researcher
           company: EURECOM
           company_url: 'https://www.eurecom.fr/'          
           location: France
           date_start: '2020-04-01'
           date_end: '2023-08-31'
-          description: ''
-    #I investigated bot detection and mitigation techniques in collaboration with Amadeus. I was supervised by prof. Marc Dacier and Dr. Olivier Thonnard. During #this experience, we published different works in international venues and #we submitted two patents for new identification methods for Residential IP Proxies #connections.
         - title: Visiting Ph.D. Researcher
           company: KAUST
           company_url: 'https://www.kaust.edu.sa/'          
           location: Saudi Arabia
           date_start: '2023-04-30'
-          date_end: '2023-03-01'
-          description: ''        
+          date_end: '2023-03-01'     
     design:
       columns: '2'
   - block: accomplishments
