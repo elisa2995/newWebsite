@@ -66,14 +66,20 @@ sections:
          #     * Analysing
          #     * Modelling
          #     * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Ph.D. Researcher
+          company: EURECOM
+          company_url: 'https://www.eurecom.fr/'          
+          location: France
+          date_start: '2020-04-01'
+          date_end: '2023-08-31'
+          description: I investigated bot detection and mitigation techniques in collaboration with Amadeus. I was supervised by prof. [Marc Dacier](https://cemse.kaust.edu.sa/people/person/marc-dacier) and Dr. Olivier Thonnard. During this experience, we published different works in international venues and we submitted two patents for new identification methods for Residential IP Proxies connections.
+        - title: Visiting Ph.D. Researcher
+          company: KAUST
+          company_url: 'https://www.kaust.edu.sa/'          
+          location: Saudi Arabia
+          date_start: '2022-02-01'
+          date_end: '2022-03-31'
+          description: ''
     design:
       columns: '2'
   - block: accomplishments
