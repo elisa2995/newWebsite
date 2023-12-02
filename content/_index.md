@@ -87,15 +87,7 @@ sections:
           location: Saudi Arabia
           date_start: '2023-03-01'
           date_end: '2023-04-30'
-          description: ''
-      - title: OMAC COVID-19 Hackaton Top 30 Team Member
-          company: Dubai Future Foundation
-          company_url: 'https://www.kaust.edu.sa/'          
-          location: Saudi Arabia
-          date_start: '2020-04-01'
-          date_end: '2020-05-30'
-          description: ''
-         
+          description: ''         
     design:
       columns: '2'
   - block: accomplishments
