@@ -39,19 +39,19 @@ education:
   courses:
     - course: Ph.D. in Digital Security
       institution: Sorbonné Université
-      year: 2023
+      year: 2020-2023
     - course: Diplôme d'ingenieur (French MSc), Computer Engineering, Communication System Security Track
       institution: Télécom Paris at EURECOM
-      year: 2020
+      year: 2018-2020
     - course: MSc in Computer Engineering, Software Engineering Track
       institution: Politecnico di Torino
-      year: 2020
-    - course: Erasmus Semester
-      institution: Universidad Carlos III de Madrid
-      year: 2016
+      year: 2017-2020
     - course: BSc in Bioengineering
       institution: Universitá degli studi di Pavia
-      year: 2017
+      year: 2014-2017
+        - course: Erasmus Semester
+      institution: Universidad Carlos III de Madrid
+      year: 2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
