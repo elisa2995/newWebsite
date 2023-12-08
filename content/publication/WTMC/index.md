@@ -22,7 +22,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *8th International Workshop on Traffic Measurements for Cybersecurity, 2023 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)*
+publication: In *8th International Workshop on Traffic Measurements for Cybersecurity (WTMC 2023), 2023 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)*
 publication_short: In *WTMC 2023*
 
 abstract: Residential IP Proxy (RESIP) providers represent a growing threat when used for web scraping and other malicious activities. RESIPs enable their customers to hide behind a vast network of residential IP addresses to perpetrate their actions. This helps the customers to evade detection. Thanks to two new large datasets of RESIP connections, we reveal new insights into RESIP inner functioning and modus operandi. We present the similarities and differences of the ecosystems associated with four RESIP providers (geographic distribution, types, management and amount of machines used). Moreover, we display how two of the providers have striking similarities and we propose a specific detection method to identify them. Furthermore, we show how to build a list of suspicious /24 blocks of IP addresses and use it to mitigate the actions of malicious parties behind RESIPs.
