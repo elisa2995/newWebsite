@@ -1,5 +1,5 @@
 ---
-title: Scrapers vs airlines, the rise of Residential Proxies
+title: 'Scrapers vs airlines: the rise of Residential Proxies'
 
 event: Serber Group Seminar
 event_url: https://cemse.kaust.edu.sa/org/serber
