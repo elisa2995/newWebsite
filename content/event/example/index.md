@@ -10,7 +10,7 @@ address:
   city: ''
   region: ''
   postcode: ''
-  country: The Netherlands
+  country: The Netherlands 
 
 summary: ''
 abstract: ''
