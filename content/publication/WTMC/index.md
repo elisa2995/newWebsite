@@ -28,7 +28,7 @@ publication_short: In *WTMC 2023*
 abstract: Residential IP Proxy (RESIP) providers represent a growing threat when used for web scraping and other malicious activities. RESIPs enable their customers to hide behind a vast network of residential IP addresses to perpetrate their actions. This helps the customers to evade detection. Thanks to two new large datasets of RESIP connections, we reveal new insights into RESIP inner functioning and modus operandi. We present the similarities and differences of the ecosystems associated with four RESIP providers (geographic distribution, types, management and amount of machines used). Moreover, we display how two of the providers have striking similarities and we propose a specific detection method to identify them. Furthermore, we show how to build a list of suspicious /24 blocks of IP addresses and use it to mitigate the actions of malicious parties behind RESIPs.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags: []
 
@@ -40,14 +40,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_pdf: 'https://github.com/elisa2995/elisa2995.github.io/raw/main/papers/Chiapponi_Inside_2023.pdf'
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
