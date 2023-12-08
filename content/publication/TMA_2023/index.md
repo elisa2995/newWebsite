@@ -22,7 +22,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *7th IFIP Network Traffic Measurement and Analysis Conference*
+publication: In *7th IFIP Network Traffic Measurement and Analysis Conference (TMA 2023)*
 publication_short: In *TMA 2023*
 
 abstract: Many websites in different domains suffer from the large number of requests originated by web scraping. Hence, these websites exploit detection mechanisms to try to block scrapers' requests. Lately, scrapers evade more and more these mechanisms by hiding behind the so-called Residential IP Proxies (RESIP). We have created a server-side detection method, based on network measurements, that enables us to detect whether a request passes through one of these providers. We have run a 4-month long experiment to assess the validity of our technique and we have collected a 90M+ connections dataset. In this work, we present new analyses performed on this dataset. They show that our detection technique can work in any real-world environment and that has a good level of accuracy even in the unlikely event where client, server and RESIP machines are all in close proximity. Moreover, we introduce the next steps in our research. We implemented our detection technique in front of domains suffering from web scraping. The study of these connections is ongoing. Furthermore, we are implementing an algorithm to geolocalize the scrapers behind the RESIP, thanks to network measurements on their connections.
