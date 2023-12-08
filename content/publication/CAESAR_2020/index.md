@@ -45,7 +45,7 @@ url_pdf: 'https://github.com/elisa2995/elisa2995.github.io/raw/main/papers/Chiap
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
-url_slides: 'https://github.com/elisa2995/elisa2995.github.io/blob/main/papers/Chiapponi_HoPLA_2020_slides.pdf'
+url_slides: 'https://github.com/elisa2995/elisa2995.github.io/raw/main/papers/Chiapponi_HoPLA_2020_slides.pdf'
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_video: 'https://youtube.com'
 
