@@ -84,7 +84,13 @@ sections:
           company_url: 'https://amadeus.com/'
           location: France
           date_start: '2019-07-02'
-          date_end: '2020-01-30'     
+          date_end: '2020-01-30'
+        - title: Bachelor Thesist
+          company: BMI Mario Stefanelli, Universitá di Pavia
+          company_url: 'http://www.labmedinfo.org/it/home-it/'
+          location: Italy
+          date_start: '2017-02-02'
+          date_end: '2017-07-30' 
     design:
       columns: '2'
   - block: accomplishments
