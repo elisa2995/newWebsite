@@ -11,7 +11,7 @@ authors:
 
 
 date: '2023-07-07T00:00:00Z'
-doi: ''
+doi: '10.1109/EuroSPW59978.2023.00062'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
