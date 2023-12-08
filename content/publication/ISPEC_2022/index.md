@@ -24,7 +24,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *17th International Conference on Information Security Practice and Experience*
+publication: In *17th International Conference on Information Security Practice and Experience (ISPEC 2022)*
 publication_short: In *ISPEC 2022*
 
 abstract: Web scraping bots are now using so-called Residential IP Proxy (RESIP) services to defeat state-of-the-art commercial bot countermeasures. RESIP providers promise their customers to give them access to tens of millions of residential IP addresses, which belong to legitimate users. They dramatically complicate the task of the existing anti-bot solutions and give the upper hand to the malicious actors. New specific detection methods are needed to identify and stop scrapers from taking advantage of these parties. This work, thanks to a 4 months-long experiment, validates the feasibility, soundness, and practicality of a detection method based on network measurements. This technique enables contacted servers to identify whether an incoming request comes directly from a client device or if it has been proxied through another device.
