@@ -33,8 +33,7 @@ summary: ''
 
 tags: []
 
-# Display this page in the Featured widget?
-featured: true
+
 
 # Custom links (uncomment lines below)
 # links:
