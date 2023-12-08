@@ -28,8 +28,8 @@ abstract: Airline websites are the victims of unauthorised online travel agencie
 summary: ''
 
 tags:
-- Source Themes
-featured: false
+# - Source Themes
+# featured: false
 
 # links:
 # - name: ""
