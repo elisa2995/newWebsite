@@ -5,6 +5,7 @@
 
 title: Elisa Chiapponi # Website name
 baseURL: 'https://www.elisachiapponi.com/' # Website URL
+include: content/google-site-verification.yaml
 
 ############################
 ## LANGUAGE
