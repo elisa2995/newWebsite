@@ -115,6 +115,14 @@ sections:
           organization_url: ''
           title: Network Traffic Measurement and Analysis Conference (TMA) 2023 Best Poster Award
           url: ''
+        - certificate_url: ''
+          date_end: '2023-12-13'
+          date_start: '2023-12-13'
+          description: ''
+          organization: CEFCYS - Cercle des Femmes de la CyberSécurité
+          organization_url: 'https://cyberwomenday-cefcys.com/en/'
+          title: Finalist in Cyber Woman Researcher Award 2023
+          url: ''
         
     design:
       columns: '2'
