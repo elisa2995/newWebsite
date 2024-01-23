@@ -1,5 +1,5 @@
 ---
-title: Inside Residential IP Proxies\: Lessons Learned from Large Measurement Campaigns
+title: "Inside Residential IP Proxies: Lessons Learned from Large Measurement Campaigns"
 
 event: Paper Presentation at the 8th International Workshop on Traffic Measurements for Cybersecurity
 event_url: ''
