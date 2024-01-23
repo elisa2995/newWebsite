@@ -4,13 +4,13 @@ title: 'Scrapers vs airlines: the rise of Residential Proxies'
 event: Serber Group Seminar
 event_url: https://cemse.kaust.edu.sa/org/serber
 
-location:  KAUST
+location:  King Abdullah University of Science and Technology
 address:
   street: ''
   city: ''
   region: ''
   postcode: ''
-  country: Saudi Arabia 
+  country: Kindom of Saudi Arabia
 
 summary: ''
 abstract: ''
