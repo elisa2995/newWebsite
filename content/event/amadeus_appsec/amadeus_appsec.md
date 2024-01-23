@@ -1,7 +1,7 @@
 ---
 title: "New ways to detect scrapers behind Residential IP Proxies"
 
-event: Paper Amadeus Application Security Seminar
+event: Amadeus Application Security Seminar
 event_url: ''
 
 location: Amadeus IT Group
