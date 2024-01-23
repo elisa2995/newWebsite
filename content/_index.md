@@ -173,19 +173,18 @@ sections:
     content:
       title: Service and Supervision
       text: '
-     **Service**:
-    
-       - PC Member
-           - IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) - Doctoral Forum [[2023](https://dsn2023.dei.uc.pt/committee_doctoral_forum-PC.html)]
-           - ACM Internet Measurement Conference (IMC) [2024]
+     **PC Member**:
+
+       - IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) - Doctoral Forum [[2023](https://dsn2023.dei.uc.pt/committee_doctoral_forum-PC.html)]
+       - ACM Internet Measurement Conference (IMC) [2024]
         
-       - Journal Reviewer
-           - Springer [International Journal of Information Security](https://www.springer.com/journal/10207)
-           - Wiley [Information Systems Journal](https://onlinelibrary.wiley.com/journal/13652575)
+     **Journal Reviewer**:
+    
+       - Springer [International Journal of Information Security](https://www.springer.com/journal/10207)
+       - Wiley [Information Systems Journal](https://onlinelibrary.wiley.com/journal/13652575)
 
      
-     **Supervision - Current students:**   
-      
+     **Supervision - Current students:**         
         
       - Baijun Feng [MSc student, KAUST, with prof. Marc Dacier]
 
