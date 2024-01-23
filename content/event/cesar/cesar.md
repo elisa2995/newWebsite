@@ -4,7 +4,7 @@ title: 'Hopla: a honeypot platform to lure attackers'
 event: 'Paper presentation at C&ESAR 2020, Deceptive Security Conference'
 event_url: ''
 
-location:  Virtual
+location:  Virtual Event
 address:
   street: ''
   city: ''
