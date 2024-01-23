@@ -123,22 +123,7 @@ sections:
           organization_url: ''
           title: Network Traffic Measurement and Analysis Conference (TMA) 2023 Best Poster Award
           url: ''
-        - certificate_url: ''
-          date_end: '2020-01-10'
-          date_start: '2018-09-01'
-          description: ''
-          organization: ERASMUS+ and Politecnico di Torino
-          organization_url: ''
-          title:  Scholarship for 18 months at EURECOM - TÉLÉCOM Paris
-          url: ''
-       - certificate_url: ''
-          date_end: '2017-01-31'
-          date_start: '2016-09-01'
-          description: ''
-          organization: ERASMUS
-          organization_url: ''
-          title:  Scholarship for 5 months at Universidad Carlos III de Madrid
-          url: ''
+
         
         
     design:
