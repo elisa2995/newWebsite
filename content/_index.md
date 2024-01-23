@@ -56,7 +56,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Security Researcher
-          company: Amadeus
+          company: Amadeus IT Group
           company_url: 'https://amadeus.com/'          
           location: France
           date_start: '2023-09-04'
@@ -80,7 +80,7 @@ sections:
           date_start: '2022-02-02'
           date_end: '2022-03-30'
         - title: Application SOC Intern
-          company: Amadeus
+          company: Amadeus IT Group
           company_url: 'https://amadeus.com/'
           location: France
           date_start: '2019-07-02'
@@ -108,6 +108,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: ''
+          date_end: '2023-12-13'
+          date_start: '2023-12-13'
+          description: ''
+          organization: CEFCYS - Cercle des Femmes de la CyberSécurité
+          organization_url: 'https://cyberwomenday-cefcys.com/en/'
+          title: Second place in Cyber Woman Researcher European Award 2023
+          url: 'https://cyberwomenday-cefcys.com/en/#laureates'
+        - certificate_url: ''
           date_end: '2023-06-01'
           date_start: '2023-06-01'
           description: ''
@@ -116,13 +124,22 @@ sections:
           title: Network Traffic Measurement and Analysis Conference (TMA) 2023 Best Poster Award
           url: ''
         - certificate_url: ''
-          date_end: '2023-12-13'
-          date_start: '2023-12-13'
+          date_end: '2020-01-10'
+          date_start: '2018-09-01'
           description: ''
-          organization: CEFCYS - Cercle des Femmes de la CyberSécurité
-          organization_url: 'https://cyberwomenday-cefcys.com/en/'
-          title: Finalist in Cyber Woman Researcher Award 2023
+          organization: ERASMUS+ and Politecnico di Torino
+          organization_url: ''
+          title:  Scholarship for 18 months at EURECOM - TÉLÉCOM Paris
           url: ''
+       - certificate_url: ''
+          date_end: '2017-01-31'
+          date_start: '2016-09-01'
+          description: ''
+          organization: ERASMUS
+          organization_url: ''
+          title:  Scholarship for 5 months at Universidad Carlos III de Madrid
+          url: ''
+        
         
     design:
       columns: '2'
