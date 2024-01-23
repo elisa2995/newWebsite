@@ -175,20 +175,24 @@ sections:
       text: '
      **Service**:
     
-       - PC Member IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) - Doctoral Forum [[2023](https://dsn2023.dei.uc.pt/committee_doctoral_forum-PC.html)]
+       - PC Member
+           - IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) - Doctoral Forum [[2023](https://dsn2023.dei.uc.pt/committee_doctoral_forum-PC.html)]
+           - ACM Internet Measurement Conference (IMC) [2024]
         
-       - Journal Reviewer for the [Springer International Journal of Information Security](https://www.springer.com/journal/10207)
+       - Journal Reviewer
+           - Springer [International Journal of Information Security](https://www.springer.com/journal/10207)
+           - Wiley [Information Systems Journal](https://onlinelibrary.wiley.com/journal/13652575)
 
      
-     **Supervision - Current students:**
-    
-      - [Salman G. Shaikh](https://cemse.kaust.edu.sa/rc3/people/person/salman-g-shaikh) [MSc/Ph.D. student, KAUST, with prof. Marc Dacier]
+     **Supervision - Current students:**   
+      
         
       - Baijun Feng [MSc student, KAUST, with prof. Marc Dacier]
 
       
       **Supervision - Former students:**
-        
+    
+      - [Salman G. Shaikh](https://cemse.kaust.edu.sa/rc3/people/person/salman-g-shaikh) [MSc/Ph.D. student, KAUST, with prof. Marc Dacier]  
       - [Mathieu Champion](https://cemse.kaust.edu.sa/rc3/people/person/mathieu-champion) [MSc student, KAUST, with prof. Marc Dacier]'
     design:
       columns: '2'
