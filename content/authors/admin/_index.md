@@ -21,7 +21,7 @@ role: Security Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Application Security Operation Center - Amadeus 
+  - name: Application Security Operation Center - Amadeus IT Group
     url: https://amadeus.com
 
 # Short bio (displayed in user profile at end of posts)
@@ -129,7 +129,9 @@ Prior to this position, I was a Ph.D. researcher in Digital Security enrolled at
 
 My recent research has delved into Residential IP proxies, commonly employed for bot traffic. After an in-depth examination of this proxy ecosystem and the development of novel server-side methods for detecting such requests, our attention has shifted toward identifying the geolocation of malicious actors leveraging these services thanks to network measurements.
 
+
 Additionally, we are investigating techniques to recognize instances where bots redirect CAPTCHAs to CAPTCHA Farms. These farms, both virtual and physical, involve individuals being paid to swiftly solve these tests and provide the corresponding answers to bots for timely submission. In this way, bots can mimic real users solving times for CAPTCHAs.
+
 
 Finally, our exploration extends to leverage machine learning models and deceptive strategies to improve the identification and mitigation of bot traffic.
 
