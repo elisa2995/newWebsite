@@ -32,7 +32,9 @@ interests:
   - Application Security
   - Network Measurements
   - Bot Detection and Mitigation
-  - Residential IP Proxies Detection
+  - Residential IP Proxies 
+  - CAPTCHA Farms
+  - Honeypots
 
 # Education to show in About widget
 education:
@@ -121,12 +123,12 @@ social:
 highlight_name: true
 ---
 
-I am a Security Researcher in the Application Security Operation Center at [Amadeus](https://amadeus.com/en). My domains of interest and expertise are Network and Application Security. 
+I am a Security Researcher in the Application Security Operation Center of the Global Security Operations of [Amadeus IT Group](https://amadeus.com/en). My domains of interest and expertise are Network and Application Security. 
 
-Prior to this position, I was a Ph.D. researcher in Digital Security enrolled at the [Sorbonne Université](https://www.sorbonne-universite.fr/). I worked on my research project in the Digital Security Department of [EURECOM](https://www.eurecom.fr/) and Amadeus, under the supervision of Prof. [Marc Dacier](https://cemse.kaust.edu.sa/people/person/marc-dacier) ([KAUST](https://www.kaust.edu.sa/en/)) and Dr. [Olivier Thonnard](https://scholar.google.fr/citations?user=PGRHX2wAAAAJ&hl=fr) (Amadeus).  I officially defended my Ph.D. thesis, whose title is "Detecting and Mitigating the New Generation of Scraping Bots", in November 2023. In the spring of 2022 and 2023, I was a visiting researcher at the [Resilient Computing and Cybersecurity Center (RC3)](https://cemse.kaust.edu.sa/rc3), Saudi Arabia.
+Prior to this position, I was a Ph.D. researcher in Digital Security enrolled at the [Sorbonne Université](https://www.sorbonne-universite.fr/). I worked on my research project in the Digital Security Department of [EURECOM](https://www.eurecom.fr/) and Amadeus IT Group, under the supervision of Prof. [Marc Dacier](https://cemse.kaust.edu.sa/people/person/marc-dacier) ([KAUST](https://www.kaust.edu.sa/en/)) and Dr. [Olivier Thonnard](https://scholar.google.fr/citations?user=PGRHX2wAAAAJ&hl=fr) (Amadeus IT Group).  I officially defended my Ph.D. thesis, titled "Detecting and Mitigating the New Generation of Scraping Bots", in November 2023. In the spring of 2022 and 2023, I was a visiting researcher at the [Resilient Computing and Cybersecurity Center (RC3)](https://cemse.kaust.edu.sa/rc3), Saudi Arabia.
 
-My current research interests center around the analysis and detection of bots and Residential IP proxies (RESIPs).
-After an in-depth study of the ecosystem of RESIP and the detection of their requests, we are focusing on the geolocation of the malicious actors that take advantage of these services thanks to IP address analysis and network measurements.
+My current research interests center around the analysis, detection and mitigation of bot traffic.
+After an in-depth study of the ecosystem of Residential IP proxies, which are largely used to send bot traffic, and finding server-side ways to detect this kind of requests, we are focusing on the geolocation of the malicious actors that take advantage of these services. To reach this goal, we take advantage of to IP address analyses and network measurements. Moreover, we are studying how to identify when bots redirect CAPTCHAs, tests that differentiate human and computer interactions, to CAPTCHA Farms. In these virtual and physical places, real people are paid to quickly solve these tests and send the answers back to the bots, enabling them to submit a valid result for the tests in a time comparable to the one of real users. Finally, we are exploring machine learning models and deceptive solutions to enhance respectively the identification and mitigation of bot traffic.
 
 I am always more than happy to discuss our work, if you have any feedback please do not hesitate to contact me at elisa.chiapponi@amadeus.com :)
 
