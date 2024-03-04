@@ -40,6 +40,7 @@ tags: []
 #   url: http://example.org
 
 # url_pdf: 'https://github.com/elisa2995/elisa2995.github.io/raw/main/papers/Chiapponi_Inside_2023.pdf'
+url_pdf: 'https://github.com/elisa2995/newWebsite/raw/main/papers/CHIAPPONI_Final_Thesis.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
