@@ -2,7 +2,7 @@
 title: How to Detect when Residential IP Proxies are Used as a Botnet
 
 event: ACFTI DFIR Stream
-event_url: https://dfir.stream/events
+event_url: 'https://dfir.stream/events'
 
 location: Association of Cyber Forensics and Threat Investigators 
 address:
@@ -34,7 +34,7 @@ image:
   caption: ''
   focal_point: Right
 
-links: https://www.acfti.org/news-events/dfir-stream-0xb
+links: 'https://www.acfti.org/news-events/dfir-stream-0xb'
 url_code: ''
 url_pdf: ''
 url_slides: ''
