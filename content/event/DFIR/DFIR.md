@@ -35,7 +35,7 @@ image:
   focal_point: Right
 
 links: 
-url_code: 'https://www.acfti.org/news-events/dfir-stream-0xb'
+url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
