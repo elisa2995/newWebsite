@@ -190,13 +190,13 @@ sections:
          
        - Wiley [Information Systems Journal](https://onlinelibrary.wiley.com/journal/13652575)
 
-     
-     **Supervision - Current students:**         
+         
+     **Cosupervision - Current students:**         
         
       - Baijun Feng [MSc student, KAUST, with prof. Marc Dacier]
 
       
-      **Supervision - Former students:**
+      **Coupervision - Former students:**
     
       - [Salman G. Shaikh](https://cemse.kaust.edu.sa/rc3/people/person/salman-g-shaikh) [MSc/Ph.D. student, KAUST, with prof. Marc Dacier]
 
