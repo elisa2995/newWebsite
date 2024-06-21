@@ -178,7 +178,7 @@ sections:
        - IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) - Doctoral Forum [[2023](https://dsn2023.dei.uc.pt/committee_doctoral_forum-PC.html)]
 
          
-       - ACM Internet Measurement Conference (IMC) [2024](https://conferences.sigcomm.org/imc/2024/committees/)
+       - ACM Internet Measurement Conference (IMC) [[2024](https://conferences.sigcomm.org/imc/2024/committees/)]
    
 
 
