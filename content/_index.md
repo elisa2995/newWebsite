@@ -112,9 +112,9 @@ sections:
           date_start: '2024-07-16'
           description: ''
           organization: Microsoft France
-          organization_url: 'https://www.linkedin.com/posts/gillesdaramon_womenonthego-womenrolemodels-microsoftfrance-activity-7219000031289257984-4WLR/?utm_source=share&utm_medium=member_android'
+          organization_url: ''
           title: Microsoft Partners Women Role Model Jeune Talent 2024 
-          url: 'https://cyberwomenday-cefcys.com/en/#laureates'
+          url: 'https://www.linkedin.com/posts/gillesdaramon_womenonthego-womenrolemodels-microsoftfrance-activity-7219000031289257984-4WLR/?utm_source=share&utm_medium=member_android'
         - certificate_url: ''
           date_end: '2023-12-13'
           date_start: '2023-12-13'
