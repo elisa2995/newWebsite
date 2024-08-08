@@ -1,5 +1,5 @@
 ---
-title: '[Upcoming] Unmasking the Shadows: Understanding and Detecting Residential IP Proxies'
+title: 'Unmasking the Shadows: Understanding and Detecting Residential IP Proxies'
 
 event: Q2 AvTech - 2024
 event_url: 'https://www.a-isac.com/events/q2-avtech'
