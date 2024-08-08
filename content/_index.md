@@ -107,6 +107,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+         - certificate_url: ''
+          date_end: '2025-07-16'
+          date_start: '2024-07-16'
+          description: ''
+          organization: Microsoft France
+          organization_url: 'https://www.linkedin.com/posts/gillesdaramon_womenonthego-womenrolemodels-microsoftfrance-activity-7219000031289257984-4WLR/?utm_source=share&utm_medium=member_android'
+          title: Microsoft Partners Women Role Model Jeune Talent 2024 
+          url: 'https://cyberwomenday-cefcys.com/en/#laureates'
         - certificate_url: ''
           date_end: '2023-12-13'
           date_start: '2023-12-13'
