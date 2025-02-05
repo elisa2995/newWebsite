@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Security Researcher 
+role: Cybersecurity Researcher 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Application Security Operation Center - Amadeus IT Group
+  - name: Global Security Operations at Amadeus IT Group
     url: https://amadeus.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: Security Researcher in the Application Security Operation Center at Amadeus
+bio: Cybersecurity Researcher in the Global Security Operations at Amadeus IT Group
 
 # Interests to show in About widget
 interests:
@@ -126,21 +126,14 @@ social:
 highlight_name: true
 ---
 
-I am a Security Researcher in the Application Security Operation Center of the Global Security Operations of [Amadeus IT Group](https://amadeus.com/en). My domains of interest and expertise are Network and Application Security. 
+I am a Cybersecurity Researcher in the Global Security Operations of [Amadeus IT Group](https://amadeus.com/en). My domains of interest and expertise are Network and Application Security. 
 
 Prior to this position, I was a Ph.D. researcher in Digital Security enrolled at the [Sorbonne Université](https://www.sorbonne-universite.fr/). I worked on my research project in the Digital Security Department of [EURECOM](https://www.eurecom.fr/) and Amadeus IT Group, under the supervision of Prof. [Marc Dacier](https://cemse.kaust.edu.sa/people/person/marc-dacier) ([KAUST](https://www.kaust.edu.sa/en/)) and Dr. [Olivier Thonnard](https://scholar.google.fr/citations?user=PGRHX2wAAAAJ&hl=fr) (Amadeus IT Group).  I officially defended my Ph.D. thesis, titled "Detecting and Mitigating the New Generation of Scraping Bots", in November 2023. In the spring of 2022 and 2023, I was a visiting researcher at the [Resilient Computing and Cybersecurity Center (RC3)](https://cemse.kaust.edu.sa/rc3), Saudi Arabia.
 
-My recent research has delved into Residential IP proxies, commonly employed for bot traffic. After an in-depth examination of this proxy ecosystem and the development of novel server-side methods for detecting such requests, our attention has shifted toward identifying the geolocation of malicious actors leveraging these services thanks to network measurements.
-
-
-Additionally, we are investigating techniques to recognize instances where bots redirect CAPTCHAs to CAPTCHA Farms. These farms, both virtual and physical, involve individuals being paid to swiftly solve these tests and provide the corresponding answers to bots for timely submission. In this way, bots can mimic real users solving times for CAPTCHAs.
-
-
-Finally, our exploration extends to leverage machine learning models and deceptive strategies to improve the identification and mitigation of bot traffic.
-
+I am currently investigating new directions to identify server-side the usage Residential IP Proxies and CAPTCHA Farms.
 I am always more than happy to discuss our work, if you have any feedback please do not hesitate to contact me at elisa.chiapponi@amadeus.com :)
 
-Outside of work, I am passionate about cooking, volunteering ([Global Shapers Nice](https://www.globalshapers.org/hubs/nice-hub/), [Helping Hands](https://www.helpinghands-sophia.org/)), hiking, indoor and outdoor climbing.
+Outside of work, I am passionate about cooking, volunteering ([Global Shapers Nice](https://www.globalshapers.org/hubs/nice-hub/), [Helping Hands](https://www.helpinghands-sophia.org/)), hiking and buldering.
 I also love traveling, listening to true-crime podcasts and dancing [Balfolk](https://www.instagram.com/folkazur/).
 
 {style="text-align: justify;"}
