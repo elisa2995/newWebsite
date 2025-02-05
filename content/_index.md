@@ -183,7 +183,7 @@ sections:
       text: '
      **PC Member**:
 
-       - IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) - Doctoral Forum [[2023](https://dsn2023.dei.uc.pt/committee_doctoral_forum-PC.html), [2025](https://dsn2025.github.io/cfdocforum.html)]
+       - IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) - Doctoral Forum [[2023](https://dsn2023.dei.uc.pt/committee_doctoral_forum-PC.html),[2025](https://dsn2025.github.io/cfdocforum.html)]
 
          
        - ACM Internet Measurement Conference (IMC) [[2024](https://conferences.sigcomm.org/imc/2024/committees/), [2025](https://conferences.sigcomm.org/imc/2025/committees/)]
