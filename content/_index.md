@@ -211,9 +211,21 @@ sections:
       - [Salman G. Shaikh](https://cemse.kaust.edu.sa/rc3/people/person/salman-g-shaikh), MSc/Ph.D. student, KAUST, with prof. Marc Dacier [2023]
 
         
-      - [Mathieu Champion](https://cemse.kaust.edu.sa/rc3/people/person/mathieu-champion), MSc student, KAUST, with prof. Marc Dacier [2022]'
-   
-      
+      - [Mathieu Champion](https://cemse.kaust.edu.sa/rc3/people/person/mathieu-champion), MSc student, KAUST, with prof. Marc Dacier [2022]
+
+      **Mentor:**
+      - [Sorbonne Université College Doctoral](https://www.sorbonne-universite.fr/recherche-1/le-doctorat/parcours-doctoral/programme-de-mentorat), [2025]
+      - [Women4Cyber](https://women4cyber.eu/), [2024][2025]
+      - [Awareness-raising to research](https://www.eurecom.fr/en/course/aware-2025spring), EURECOM [2021][2022]
+        
+      '
+     
+      \item Mentor
+    \begin{itemize}
+        \item \textbf{Awareness-raising to research} (EURECOM) [2021][2022]
+        \item \textbf{Women4Cyber} Mentor [2024][2025]
+        \item \textbf{Sorbonne Université College Doctoral} Mentor [2025]
+    \end{itemize}
     design:
       columns: '2'
   - block: contact
