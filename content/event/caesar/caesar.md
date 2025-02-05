@@ -1,5 +1,5 @@
 ---
-title: '[Upcoming] Countering Residential IP Proxies: Detection Techniques and Strategic Insights'
+title: 'Countering Residential IP Proxies: Detection Techniques and Strategic Insights'
 
 event: 'Invited Keynote at C&ESAR 2024 by DGA'
 event_url: 'https://2024.cesar-conference.org/keynotes/'
@@ -37,8 +37,8 @@ image:
 links: 
 url_code: ''
 url_pdf: ''
-url_slides: ''
-url_video: ''
+url_slides: 'https://2024.cesar-conference.org/program-media/CESAR-2024_keynote-Proxies_slide-deck.pdf'
+url_video: 'https://2024.cesar-conference.org/program-media/CESAR-2024_2-3_keynote-Proxies.webm'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
