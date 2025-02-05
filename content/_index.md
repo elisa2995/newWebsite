@@ -220,12 +220,6 @@ sections:
         
       '
      
-      \item Mentor
-    \begin{itemize}
-        \item \textbf{Awareness-raising to research} (EURECOM) [2021][2022]
-        \item \textbf{Women4Cyber} Mentor [2024][2025]
-        \item \textbf{Sorbonne Université College Doctoral} Mentor [2025]
-    \end{itemize}
     design:
       columns: '2'
   - block: contact
