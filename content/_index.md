@@ -183,10 +183,10 @@ sections:
       text: '
      **PC Member**:
 
-       - IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) - Doctoral Forum [[2023](https://dsn2023.dei.uc.pt/committee_doctoral_forum-PC.html)]
+       - IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) - Doctoral Forum [[2023](https://dsn2023.dei.uc.pt/committee_doctoral_forum-PC.html), [2025](https://dsn2025.github.io/cfdocforum.html)]
 
          
-       - ACM Internet Measurement Conference (IMC) [[2024](https://conferences.sigcomm.org/imc/2024/committees/)]
+       - ACM Internet Measurement Conference (IMC) [[2024](https://conferences.sigcomm.org/imc/2024/committees/), [2025](https://conferences.sigcomm.org/imc/2025/committees/)]
    
 
 
@@ -200,16 +200,19 @@ sections:
 
          
      **Cosupervision - Current students:**         
+      - [Umberto Fontana](https://www.linkedin.com/in/umberto-fontana-a01407255/?originalSubdomain=fr), Ph.D. student, Amadeus IT Group - Télécom SudParis, with prof. Hervé Debar and Ing. Claudio Costanza [2024- Ongoing]
         
-      - Baijun Feng [MSc student, KAUST, with prof. Marc Dacier]
+      - [Baijun Feng](https://academia.kaust.edu.sa/en/persons/baijun-feng), MSc/Ph.D. student, KAUST, with prof. Marc Dacier [2023- Ongoing]
 
       
       **Coupervision - Former students:**
     
-      - [Salman G. Shaikh](https://cemse.kaust.edu.sa/rc3/people/person/salman-g-shaikh) [MSc/Ph.D. student, KAUST, with prof. Marc Dacier]
+      - [Salman G. Shaikh](https://cemse.kaust.edu.sa/rc3/people/person/salman-g-shaikh), MSc/Ph.D. student, KAUST, with prof. Marc Dacier [2023]
 
         
-      - [Mathieu Champion](https://cemse.kaust.edu.sa/rc3/people/person/mathieu-champion) [MSc student, KAUST, with prof. Marc Dacier]'
+      - [Mathieu Champion](https://cemse.kaust.edu.sa/rc3/people/person/mathieu-champion), MSc student, KAUST, with prof. Marc Dacier [2022]
+   
+      
     design:
       columns: '2'
   - block: contact
