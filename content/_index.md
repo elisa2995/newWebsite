@@ -207,7 +207,7 @@ sections:
       - [Baijun Feng](https://academia.kaust.edu.sa/en/persons/baijun-feng), MSc/Ph.D. student, KAUST, with prof. Marc Dacier [2023- Ongoing]
 
       
-      **Coupervision - Former students:**
+      **Cosupervision - Former students:**
     
       - [Salman G. Shaikh](https://cemse.kaust.edu.sa/rc3/people/person/salman-g-shaikh), MSc/Ph.D. student, KAUST, with prof. Marc Dacier [2023]
 
